@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClickPremium.Contracts/1.0.0": {
+        "runtime": {
+          "ClickPremium.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClickPremium.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

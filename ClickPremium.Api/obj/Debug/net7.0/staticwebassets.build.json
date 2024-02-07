@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pWsPleu9WwRsMAPeXzhlYqUpmFmdvzBLioa3F5jeq6c=",
+  "Source": "ClickPremium.Api",
+  "BasePath": "_content/ClickPremium.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

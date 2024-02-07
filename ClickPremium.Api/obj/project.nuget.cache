@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YScKfQoD5FHRcrKAxFgQKXnGuUZz0YD1QLNAX+BWWuYpOUR/S0lyu7e58IZDZTQNh52m1eF41CwDgZqcr8lnaw==",
+  "success": true,
+  "projectFilePath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Api/ClickPremium.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/creatorcapac/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.identitymodel.abstractions/7.3.1/microsoft.identitymodel.abstractions.7.3.1.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.3.1/microsoft.identitymodel.jsonwebtokens.7.3.1.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.identitymodel.logging/7.3.1/microsoft.identitymodel.logging.7.3.1.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.identitymodel.tokens/7.3.1/microsoft.identitymodel.tokens.7.3.1.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/system.identitymodel.tokens.jwt/7.3.1/system.identitymodel.tokens.jwt.7.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

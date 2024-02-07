@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSxdapNb0HgJZ+N7wPmzth3PyKyTqiSwqlL/xqJNvt170oLe68Tss4q5cZGbGsk+oh0pDHMA4boHgevWjfvlUA==",
+  "success": true,
+  "projectFilePath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/ClickPremium.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/creatorcapac/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

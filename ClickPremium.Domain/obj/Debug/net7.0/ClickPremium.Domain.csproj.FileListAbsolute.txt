@@ -1,0 +1,12 @@
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/bin/Debug/net7.0/ClickPremium.Domain.deps.json
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/bin/Debug/net7.0/ClickPremium.Domain.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/bin/Debug/net7.0/ClickPremium.Domain.pdb
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/obj/Debug/net7.0/ClickPremium.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/obj/Debug/net7.0/ClickPremium.Domain.AssemblyInfoInputs.cache
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/obj/Debug/net7.0/ClickPremium.Domain.AssemblyInfo.cs
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/obj/Debug/net7.0/ClickPremium.Domain.csproj.CoreCompileInputs.cache
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/obj/Debug/net7.0/ClickPremium.Domain.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/obj/Debug/net7.0/refint/ClickPremium.Domain.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/obj/Debug/net7.0/ClickPremium.Domain.pdb
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/obj/Debug/net7.0/ref/ClickPremium.Domain.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/obj/Debug/net7.0/ClickPremium.Domain.sourcelink.json

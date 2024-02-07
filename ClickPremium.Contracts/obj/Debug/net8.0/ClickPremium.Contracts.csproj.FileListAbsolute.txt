@@ -1,0 +1,12 @@
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/bin/Debug/net8.0/ClickPremium.Contracts.deps.json
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/bin/Debug/net8.0/ClickPremium.Contracts.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/bin/Debug/net8.0/ClickPremium.Contracts.pdb
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/obj/Debug/net8.0/ClickPremium.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/obj/Debug/net8.0/ClickPremium.Contracts.AssemblyInfoInputs.cache
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/obj/Debug/net8.0/ClickPremium.Contracts.AssemblyInfo.cs
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/obj/Debug/net8.0/ClickPremium.Contracts.csproj.CoreCompileInputs.cache
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/obj/Debug/net8.0/ClickPremium.Contracts.sourcelink.json
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/obj/Debug/net8.0/ClickPremium.Contracts.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/obj/Debug/net8.0/refint/ClickPremium.Contracts.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/obj/Debug/net8.0/ClickPremium.Contracts.pdb
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/obj/Debug/net8.0/ref/ClickPremium.Contracts.dll

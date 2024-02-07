@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Api/ClickPremium.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Api/ClickPremium.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Api/ClickPremium.Api.csproj",
+        "projectName": "ClickPremium.Api",
+        "projectPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Api/ClickPremium.Api.csproj",
+        "packagesPath": "/Users/creatorcapac/.nuget/packages/",
+        "outputPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/creatorcapac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/ClickPremium.Application.csproj": {
+                "projectPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/ClickPremium.Application.csproj"
+              },
+              "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/ClickPremium.Contracts.csproj": {
+                "projectPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/ClickPremium.Contracts.csproj"
+              },
+              "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Infrastructure/ClickPremium.Infrastructure.csproj": {
+                "projectPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Infrastructure/ClickPremium.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/ClickPremium.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/ClickPremium.Application.csproj",
+        "projectName": "ClickPremium.Application",
+        "projectPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/ClickPremium.Application.csproj",
+        "packagesPath": "/Users/creatorcapac/.nuget/packages/",
+        "outputPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/creatorcapac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/ClickPremium.Domain.csproj": {
+                "projectPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/ClickPremium.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/ClickPremium.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/ClickPremium.Contracts.csproj",
+        "projectName": "ClickPremium.Contracts",
+        "projectPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/ClickPremium.Contracts.csproj",
+        "packagesPath": "/Users/creatorcapac/.nuget/packages/",
+        "outputPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/creatorcapac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/ClickPremium.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/ClickPremium.Domain.csproj",
+        "projectName": "ClickPremium.Domain",
+        "projectPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/ClickPremium.Domain.csproj",
+        "packagesPath": "/Users/creatorcapac/.nuget/packages/",
+        "outputPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/creatorcapac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Infrastructure/ClickPremium.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Infrastructure/ClickPremium.Infrastructure.csproj",
+        "projectName": "ClickPremium.Infrastructure",
+        "projectPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Infrastructure/ClickPremium.Infrastructure.csproj",
+        "packagesPath": "/Users/creatorcapac/.nuget/packages/",
+        "outputPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/creatorcapac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/ClickPremium.Application.csproj": {
+                "projectPath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/ClickPremium.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

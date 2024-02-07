@@ -1,0 +1,16 @@
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/bin/Debug/net8.0/ClickPremium.Application.deps.json
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/bin/Debug/net8.0/ClickPremium.Application.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/bin/Debug/net8.0/ClickPremium.Application.pdb
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/ClickPremium.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/ClickPremium.Application.AssemblyInfoInputs.cache
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/ClickPremium.Application.AssemblyInfo.cs
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/ClickPremium.Application.csproj.CoreCompileInputs.cache
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/ClickPremium.Application.sourcelink.json
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/ClickPremium.Application.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/refint/ClickPremium.Application.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/ClickPremium.Application.pdb
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/ref/ClickPremium.Application.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/bin/Debug/net8.0/ClickPremium.Domain.dll
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/bin/Debug/net8.0/ClickPremium.Domain.pdb
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/ClickPremium.Application.csproj.AssemblyReference.cache
+/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/obj/Debug/net8.0/ClickPremium.Application.csproj.CopyComplete

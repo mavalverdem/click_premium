@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <InvariantGlobalization>true</InvariantGlobalization>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+    <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+    <ItemGroup>
+        <ProjectReference Include="..\ClickPremium.Contracts\ClickPremium.Contracts.csproj" />
+        <ProjectReference Include="..\ClickPremium.Application\ClickPremium.Application.csproj" />
+        <ProjectReference Include="..\ClickPremium.Infrastructure\ClickPremium.Infrastructure.csproj" />
+    </ItemGroup>
+</Project>
