@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "C7MLk3ji7pyMaIOicIqbEaWoCicRbap36afZwgbR2bkO+f9ra+Emo2bpcTjygw6UpyPEsEC951EHZdmcHTQrvw==",
+  "dgSpecHash": "ccNmGzuORZdm5Kt7JtYYzlynUACRP1w0TaFDIwm67dIXWoa359ZroCapdaYoNtPfU3Lf5kqIAe+1qNBgACTtKg==",
   "success": true,
   "projectFilePath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Domain/ClickPremium.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/creatorcapac/.nuget/packages/erroror/1.10.0/erroror.1.10.0.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

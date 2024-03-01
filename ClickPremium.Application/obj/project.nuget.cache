@@ -1,11 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "XSxdapNb0HgJZ+N7wPmzth3PyKyTqiSwqlL/xqJNvt170oLe68Tss4q5cZGbGsk+oh0pDHMA4boHgevWjfvlUA==",
+  "dgSpecHash": "0usRAztPIcp5bdMhLOad6Z32D5v1Svq1pP3QaZXS35uyDPs0dTsuTYgqSBR9Mnbc+Xz8u3rIbfPfRyJb6aDTZQ==",
   "success": true,
   "projectFilePath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Application/ClickPremium.Application.csproj",
   "expectedPackageFiles": [
+    "/Users/creatorcapac/.nuget/packages/erroror/1.10.0/erroror.1.10.0.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/fluentresults/3.15.2/fluentresults.3.15.2.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/creatorcapac/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
-    "/Users/creatorcapac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "/Users/creatorcapac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }

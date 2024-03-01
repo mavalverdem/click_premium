@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LeProKh5tycDV7FwpVFSh4DCD1+9A3ut0R57pJQeHdJFhG3ZJGfB90AJJq57oo+fB997DsAYmdLBzVVPUOXZlA==",
+  "dgSpecHash": "tAzgxzhvNbD4/GzmStUc+4AFgH5c1unS+Fd3kD1vXHswmkRvFsm0jtuXoVC0b0bpv8csSQEeDOFVsx7IMLMLQA==",
   "success": true,
   "projectFilePath": "/Users/creatorcapac/source/dotnet/ClickPremium/ClickPremium.Contracts/ClickPremium.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/creatorcapac/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/creatorcapac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

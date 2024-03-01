@@ -1,15 +1,20 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
     <PropertyGroup>
         <TargetFramework>net7.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
-        <InvariantGlobalization>true</InvariantGlobalization>
-    </PropertyGroup>
+        <InvariantGlobalization>false</InvariantGlobalization>
+      <UserSecretsId>e928857a-eda0-4d66-bd29-63207c171249</UserSecretsId>
+  </PropertyGroup>
     <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
     <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
     <ItemGroup>
         <ProjectReference Include="..\ClickPremium.Contracts\ClickPremium.Contracts.csproj" />
         <ProjectReference Include="..\ClickPremium.Application\ClickPremium.Application.csproj" />
         <ProjectReference Include="..\ClickPremium.Infrastructure\ClickPremium.Infrastructure.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="Mapster" Version="7.4.0" />
+      <PackageReference Include="Mapster.DependencyInjection" Version="1.0.1" />
     </ItemGroup>
 </Project>

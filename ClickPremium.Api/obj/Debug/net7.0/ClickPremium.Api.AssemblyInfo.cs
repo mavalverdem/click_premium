@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("e928857a-eda0-4d66-bd29-63207c171249")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClickPremium.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e45bf6b29d80b235a195411bdf7bc38119f7d7e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a115cb9632072476566498352be207ca56ae5b29")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClickPremium.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClickPremium.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,27 +3,39 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Bubber.Core.Application.Common.Interfaces.Services;
 using ClickPremium.Application.Common.Interfaces.Authentication;
+using ClickPremium.Domain.Entities;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
 namespace ClickPremium.Infrastructure.Authentication {
     public class JwtTokenGenerator : IJwtTokenGenerator
     {
-        public string GenerateToken(Guid userId, string firstName, string lastName)
+        private readonly JwtSettings _jwtSettings;
+        private readonly IDateTimeProvider _dateTimeProvider;
+
+        public JwtTokenGenerator(IDateTimeProvider dateTimeProvider, IOptions<JwtSettings> JwtOptions)
+        {
+            _dateTimeProvider = dateTimeProvider;
+            _jwtSettings = JwtOptions.Value;
+        }
+        public string GenerateToken(User user)
         {
             var signingCredentials = new SigningCredentials(
-                new SymmetricSecurityKey(Encoding.UTF8.GetBytes("Cuando me mira y me toca, todo lo que quiero es tocarla.")),
+                new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Secret!)),
                 SecurityAlgorithms.HmacSha256);
             var claims = new List<Claim>
             {
-                new Claim(JwtRegisteredClaimNames.Sub, userId.ToString()),
-                new Claim(JwtRegisteredClaimNames.GivenName, firstName),
-                new Claim(JwtRegisteredClaimNames.FamilyName, lastName),
+                new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
+                new Claim(JwtRegisteredClaimNames.GivenName, user.FirstName),
+                //new Claim(JwtRegisteredClaimNames.FamilyName, user.LastName),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
             var SecurityToken = new JwtSecurityToken(
-                issuer: "ClickPremium",
-                expires: DateTime.Now.AddDays(1),
+                issuer: _jwtSettings.Issuer,
+                audience: _jwtSettings.Audience,
+                expires: _dateTimeProvider.UtcNow.AddMinutes(_jwtSettings.ExpiryMinutes),
                 claims: claims,
                 signingCredentials: signingCredentials
             );
